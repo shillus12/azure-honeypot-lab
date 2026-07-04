@@ -30,7 +30,7 @@ Components include:
 
 ---
 
-<h2>Implementation Overview</h2>
+<h2>Implementation</h2>
 
 <p align="center">
 <b>Unsecure Virtual Machine Deployment</b><br/>
