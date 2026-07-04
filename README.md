@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-This project sets up a Windows 10 virtual machine in Azure as a honeypot to attract failed login attempts. The logs from these attempts are collected, enriched with location data based on IP addresses, and visualized in Microsoft Sentinel using a custom attack map.
+This project sets up a Windows 10 virtual machine in Azure as a honeypot to attract failed login attempts. The logs from these attempts are collected, enriched with location data based on IP addresses and visualized in Microsoft Sentinel using a custom attack map.
 
 Core components include:
 - Azure VM-based honeypot
