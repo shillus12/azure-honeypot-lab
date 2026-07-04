@@ -83,9 +83,3 @@ A custom workbook in Microsoft Sentinel was built to visualize the geographic di
 - <b>SecurityEvent Logs (Event ID 4625)</b>  
 - <b>GeoIP Watchlist</b>:  
   [geoip-summarized.csv](https://raw.githubusercontent.com/joshmadakor1/lognpacific-public/refs/heads/main/misc/geoip-summarized.csv)
-
----
-
-<h2>Final Notes</h2>
-
-This project shows how to set up a complete system to detect and track attacks using cloud tools. It takes raw security logs, adds location data, and visualizes where the attacks are coming from, giving a clearer picture of what's happening and who's targeting the system.
